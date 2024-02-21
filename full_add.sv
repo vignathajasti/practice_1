@@ -1,4 +1,4 @@
-// Full Adder 
+// Full Adder into cloud repo
 module full_add(a,b,cin,sum,cout);
   input a,b,cin;
   output sum,cout;
